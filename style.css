@@ -5,7 +5,6 @@ body {
 
 body {
     background-color: #eee;
-    display: flexbox;
     display: flex;
     justify-content: center;
 }
