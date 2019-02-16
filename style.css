@@ -75,6 +75,7 @@ strong{
     color: #979797 !important;
     margin-left:15px;
     cursor: pointer;
+    font-size: 16px;
 }
 
 .fa:hover, .fas:hover, .icons:hover{
